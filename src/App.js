@@ -7,6 +7,7 @@ function App() {
   // 변수 (변수는 function 과 return 사이에 집어 넣음)
   const name = "Hong";
   let age = 30;
+  let gender = true;
   const naver = {
     name : "네이버",
     url : "https://www.naver.com",
